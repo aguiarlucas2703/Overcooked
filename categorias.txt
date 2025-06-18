@@ -1,2 +1,9 @@
 Categorias:
-    massas; Macarrão; Lasanhas, Nhoques e cia; Espaguete; Macarronada.
+    Massas Secas:
+        Espaguete; Penne; Fusilli.
+    Massas Frescas:
+        Ravioli; Nhoque; Talharim.
+    Massas Recheadas:
+        Capeletti; Conchiglione.
+    Massas Orientais:
+        Soba; Udon.
